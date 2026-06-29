@@ -9,4 +9,4 @@ Juego de la Serpiente en Consola
 ​Generación de Obstáculos Aleatorios: Aumenta la dificultad añadiendo obstáculos que aparecen en posiciones aleatorias al inicio del juego.
 ​Colisiones Dinámicas: Detecta si la serpiente choca contra los bordes, los obstáculos o su propia cola, terminando así la partida.
 ​Fecha
-​Junio de 2026
+​Junio de 2026.
